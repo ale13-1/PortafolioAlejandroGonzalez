@@ -16,6 +16,8 @@ El portafolio debe mostrar mi interés por resolver problemas mediante tecnolog�
 
 **Desarrollador Full Stack Junior**, con formación en Java y Spring Boot y experiencia en proyectos que utilizan React y Next.js.
 
+Estoy abierto a puestos junior de frontend, backend o full stack. Mi participación confirmada en Tu anillo de compromiso corresponde al frontend; mi formación en backend se presenta por separado.
+
 Quiero que las personas vean a alguien entusiasta, con ganas de ayudar y aprender, con quien puedan contar para resolver problemas, recibir feedback, trabajar en equipo y asumir distintas responsabilidades.
 
 Mi experiencia coordinando un proyecto y realizando modificaciones técnicas guiadas forma parte de este perfil: puedo aportar desde la organización y el conocimiento del negocio mientras continúo desarrollando mis habilidades técnicas.
@@ -30,7 +32,7 @@ Combino mi experiencia en administración, ventas y atención al cliente con mi 
 | --- | --- |
 | Comprensión del negocio y del cliente | Experiencia en administración, ventas y atención al cliente |
 | Colaboración y coordinación | Participación en Tu anillo de compromiso en un equipo de cinco integrantes y coordinación de El Rincón de tu Mascota en un equipo de tres |
-| Base técnica y disposición para aprender | Formación full stack, colaboración en frontend y backend y modificaciones técnicas con acompañamiento |
+| Base técnica y disposición para aprender | Formación full stack, colaboración en frontend y modificaciones técnicas con acompañamiento |
 
 ### Versión breve para el sitio
 
@@ -51,7 +53,7 @@ El tono será **profesional, cercano y entusiasta**, con confianza y honestidad 
 ### Ejemplos de aplicación
 
 - **Presentación:** «Me interesa entender qué necesitan las personas y colaborar en soluciones web que les resulten útiles».
-- **Proyecto:** «Trabajé en un equipo de cinco integrantes, colaborando en el frontend con React y Next.js y en el backend con Java y Spring Boot».
+- **Proyecto:** «Trabajé en un equipo de cinco integrantes, colaborando en la galería de productos y ajustando sus tarjetas para dispositivos móviles».
 - **Forma de trabajar:** «Valoro el feedback y el intercambio de ideas. Me gusta colaborar y asumir nuevas responsabilidades mientras desarrollo mis habilidades».
 - **Contacto:** «¿Buscas un desarrollador junior para tu equipo? Conversemos».
 
@@ -62,7 +64,7 @@ En la presentación, los proyectos y el contacto, priorizar ejemplos concretos d
 El visitante debería identificar rápidamente:
 
 - **Quién soy:** Alejandro González, desarrollador Full Stack Junior.
-- **Qué oportunidad busco:** incorporarme a un equipo de desarrollo full stack.
+- **Qué oportunidad busco:** incorporarme a un equipo en un puesto junior de frontend, backend o full stack.
 - **Qué puedo aportar:** orientación a resolver problemas, comprensión del negocio y disposición para colaborar.
 - **Cómo trabajo:** con ganas de aprender, apertura al feedback y adaptación a distintas responsabilidades.
 - **Qué respalda mi perfil:** formación y participación en proyectos reales con equipos de trabajo.
@@ -71,7 +73,10 @@ El visitante debería identificar rápidamente:
 ### Presentación principal propuesta
 
 > **Soy Alejandro González, desarrollador Full Stack Junior.**
-> Combino mi experiencia en administración y ventas con mi formación en desarrollo web para contribuir a soluciones que respondan a necesidades reales. Busco un equipo donde pueda aportar, aprender y crecer, con compromiso, apertura al feedback y disposición para asumir distintas responsabilidades.
+> **Desarrollo web con perspectiva de negocio y espíritu colaborativo.**
+> Combino mi experiencia en administración, ventas y atención al cliente con mi formación en desarrollo web para colaborar en soluciones útiles. Busco un equipo donde pueda aportar, aprender y crecer.
+
+Las acciones principales serán **Ver proyectos** y **Contactarme**. El currículum y GitHub también tendrán accesos visibles.
 
 ## 7. Conocimientos y herramientas
 
@@ -79,9 +84,9 @@ Esta sección recoge mis conocimientos y herramientas declarados. Las tecnologí
 
 | Área | Conocimientos y herramientas |
 | --- | --- |
-| Lenguajes y fundamentos | Java y Python a nivel básico; fundamentos de SQL; JavaScript |
-| Frontend | HTML, CSS, Bootstrap, React y Next.js |
-| Backend | Spring Boot y Node.js |
+| Lenguajes y fundamentos | Java y Python a nivel básico; fundamentos de SQL; JavaScript básico |
+| Frontend | HTML, CSS y Bootstrap; React y Next.js en aprendizaje, con participación en proyectos |
+| Backend | Java y Spring Boot en contexto de formación; Node.js entre los conocimientos declarados |
 | Control de versiones y colaboración | Git, GitHub y Jira |
 | Entorno de desarrollo | Visual Studio Code (VS Code) e IntelliJ IDEA |
 | Servicios y despliegue | Vercel, Supabase y servidores de correo |
@@ -91,12 +96,16 @@ Esta sección recoge mis conocimientos y herramientas declarados. Las tecnologí
 
 ### Tu anillo de compromiso | 2023
 
-Participé en el desarrollo de una página web para un emprendimiento, con acompañamiento de una ONG de apoyo a emprendedores. Trabajé en un equipo de **5 integrantes**, colaborando tanto en el frontend como en el backend.
+Participé en el desarrollo de una página web para un emprendimiento, con acompañamiento de una ONG de apoyo a emprendedores. Trabajé en un equipo de **5 integrantes**, colaborando en el frontend: la galería de productos y sus detalles, con ajustes de tamaños, colores, botones y adaptación a dispositivos móviles en tarjetas que mostraban imágenes y precios.
+
+Mi aprendizaje principal fue comprender el proceso de desarrollo web y trabajar en equipo. La sección visible que inicialmente describí como backend corresponde al frontend; no se atribuye una contribución personal al backend.
 
 - **Frontend:** React y Next.js.
 - **Backend:** Java y Spring Boot.
 - **Base de datos:** MySQL.
-- **Experiencia que respalda:** colaboración en equipo y participación en las dos áreas de una aplicación web para un emprendimiento real.
+- **Experiencia que respalda:** colaboración en equipo, desarrollo de interfaces y adaptación móvil para un emprendimiento real.
+
+Las tecnologías anteriores describen el proyecto. El enlace al backend aporta contexto del proyecto, no evidencia de una contribución individual en esa área.
 
 **Repositorios:**
 
@@ -106,6 +115,8 @@ Participé en el desarrollo de una página web para un emprendimiento, con acomp
 ### El Rincón de tu Mascota | 2025–2026
 
 Coordiné el proyecto de comercio electrónico y trabajé en un equipo de **3 integrantes**. Realicé modificaciones técnicas guiadas sobre una aplicación existente desarrollada con React y Next.js.
+
+Definí prioridades, mantuve la comunicación con el negocio y revisé avances. Con acompañamiento técnico incorporé los términos y condiciones y la política de privacidad, utilizando contenido redactado por un abogado en relación con la normativa chilena de protección de datos. Mi aporte fue la incorporación técnica del contenido, no su redacción ni validación legal.
 
 - **Rol:** coordinación del proyecto y modificaciones técnicas guiadas.
 - **Experiencia que respalda:** trabajo colaborativo, coordinación y aprendizaje con acompañamiento técnico.
@@ -146,3 +157,38 @@ El siguiente inventario describe la aplicación y sus integraciones; no atribuye
 - Describir las modificaciones guiadas y la coordinación del proyecto de forma coherente con mi experiencia.
 - Presentar resultados verificables y evitar atribuir logros individuales que no estén documentados.
 - Mantener este enfoque alineado con el [currículum](CV_Alejandro_Ignacio_Gonzalez_Arce.md).
+
+## 10. Disponibilidad y contacto público
+
+Ubicado en Chile, con disponibilidad inmediata. Abierto a oportunidades en cualquier país, con prioridad en Chile y Nueva Zelanda; sin preferencia entre trabajo remoto, híbrido o presencial y con disposición a considerar una reubicación.
+
+- **Correo:** [ignacio0512942@gmail.com](mailto:ignacio0512942@gmail.com).
+- **Teléfono:** [+56 9 9184 5633](tel:+56991845633), autorizado para publicación en el portafolio.
+- **GitHub:** [ale13-1](https://github.com/ale13-1).
+- **LinkedIn:** [Alejandro González Arce](https://www.linkedin.com/in/alejandro-gonzalez-arce).
+
+En el portafolio se mostrará Chile como ubicación; la prioridad en Nueva Zelanda expresa interés laboral y no residencia actual.
+
+## 11. Idiomas y versión bilingüe
+
+- Español: nativo, según el currículum existente.
+- Inglés: A2.
+- Chino mandarín: nivel HSK 1, sin atribuir una certificación no confirmada.
+- Criollo haitiano y portugués: nociones y aprendizaje por interés personal.
+
+El sitio tendrá versiones completas en español e inglés con selector visible **ES / EN**, igual estructura y hechos equivalentes. Los niveles de idiomas se mantendrán explícitos en ambas versiones. El currículum se preparará también en inglés.
+
+## 12. Estructura y dirección visual
+
+Orden acordado: **Presentación → Proyectos → Conocimientos → Sobre mí → Contacto**, con encabezado y pie de página.
+
+Estilo cercano y personal, fondo gris carbón, texto blanco suave y acento cálido terracota/coral. Se priorizarán legibilidad, contraste, navegación por teclado y adaptación móvil.
+
+La fotografía y las capturas reales de los proyectos están pendientes. La estructura debe funcionar sin ellas y permitir incorporarlas después.
+
+Documentos de desarrollo de esta especificación:
+
+- [Estructura del portafolio](ESTRUCTURA_DEL_PORTAFOLIO.md).
+- [Contenido en español](CONTENIDO_PORTAFOLIO_ES.md).
+- [Contenido en inglés](CONTENIDO_PORTAFOLIO_EN.md).
+- [Currículum en inglés](CV_Alejandro_Ignacio_Gonzalez_Arce_EN.md).
